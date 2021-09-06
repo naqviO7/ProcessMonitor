@@ -1,4 +1,4 @@
-# Process-Monitor
+# ProcessMonitor
 Python Script to show running processes and services
 Only shows major process with their process id, name and extension etc.
 ## Available Only for Windows.
